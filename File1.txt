@@ -1,16 +1,17 @@
 Hello World !! !!
 
 HEAD
-Change -- Change updated ...
+Change 1-- Change updated ...
 
-Change on file 1 for WI3
+Change 2on file 1 for WI3
 
-Change updated ...
+Change 3updated ...
 
-Change for bug2
+Change 4for bug2
 bug2
 
 
 for WI 5 change 
 
-Change : For WI6 on local master to test normal push
+Change 5: For WI6 on local master to test normal push
+ Change 6 : for bug3 change by remote master
